@@ -138,7 +138,7 @@ dex-project/
 
 Voici une capture d'écran de l'interface DEX :
 
-<img src="./frontend/public/dex-interface.png" alt="Interface DEX" width="600" />
+<img src="./public/dex-interface.png" alt="Interface DEX" width="600" />
 
 ---
 
